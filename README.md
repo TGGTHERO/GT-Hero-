@@ -1,6 +1,8 @@
 ### ૭૪Ո૯૦  💜✋
 
-[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/Gxneo) [![telegram badge](https://img.shields.io/badge/GXNEO-30302f?style=flat&logo=telegram)](https://telegram.dog/Gxneo) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://visi.tk/prgofficial)
+<p align="center">
+<a href="https://t.me/gxneo"><img alt="Telegram" src="https://img.shields.io/badge/gxneo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Gxneo&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
