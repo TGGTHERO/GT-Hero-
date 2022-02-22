@@ -1,6 +1,6 @@
 ### ૭૪Ո૯૦  💜✋
 
-</a>&nbsp;&nbsp; <a href="https://instagram.com/noobanon">
+</a>&nbsp;&nbsp; <a href="https://instagram.com/gx.neo_">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Gxneo&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
