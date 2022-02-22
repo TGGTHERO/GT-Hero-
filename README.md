@@ -7,12 +7,10 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Gxneo&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <a href="https://github.com/Gxneo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gxneo#version3"/>
+<a href="https://github.com/Gxneo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GxNeo&theme=tokyonight" />
   </a>
-</p>
-                
+            
 ![GitHub followers](https://img.shields.io/github/followers/Gxneo?style=social)     ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Gxneo/)
 
 - 👨‍💼 𝓕𝓻𝓮𝓮𝓵𝓪𝓷𝓬𝓮  𝔀𝓸𝓻𝓴𝓮𝓻.
