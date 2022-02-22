@@ -1,4 +1,4 @@
-### 𝓗σ𝓛ค  💜✋
+### ૭૪Ո૯૦  💜✋
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/Gxneo) [![telegram badge](https://img.shields.io/badge/ɢx₪ᴇᴏ-30302f?style=flat&logo=telegram)](https://telegram.dog/Gxneo) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://visi.tk/prgofficial)
 
