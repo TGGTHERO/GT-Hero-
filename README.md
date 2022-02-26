@@ -1,6 +1,6 @@
 <b> ૭૪Ո૯૦  💜✋</b>
 
-</a>&nbsp;&nbsp; <a href="https://t.me/Gxneo">
+</a>&nbsp;&nbsp; <a href="https://t.me/GTHERO">
     <img src="https://img.shields.io/badge/%20%F0%9F%92%99-Telegram-blue?style=for-the-badge" /> 
 </a>&nbsp;&nbsp; <a href="https://instagram.com/gx.neo_">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
